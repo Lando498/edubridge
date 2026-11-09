@@ -59,7 +59,7 @@ h1 {
     color: white;
     position: absolute;
     top: 50%;
-    text-decoration: none;
+    text-decoration: underline;
     left: 10%;
     z-index: 100;
 }
