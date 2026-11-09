@@ -1,3 +1,25 @@
-body {
-    
+#toolbar {
+    position: fixed;
+    width: 100%;
+    right: 0%;
+    height: 5%;
+    background-color: rgb(49, 36, 73);
+    display: flex;
+    align-items: center;
+}
+
+#homebutton {
+color: white;
+background-color: rgb(88, 65, 129);
+height: 75%;
+width: 5%;
+display: inline-flex;
+text-align: center;
+border-radius: 5px;
+position: relative;
+left: 50px;
+align-items: center;
+justify-content: center;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
 }
