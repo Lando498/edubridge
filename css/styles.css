@@ -38,7 +38,7 @@ body {
 #backgroundimage {
     position: relative;
     width: 150%;
-    right: 0%;
+    right: 50%;
     left: 0%;
     height: auto;
       -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
