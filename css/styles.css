@@ -64,6 +64,8 @@ h1 {
     z-index: 100;
 }
 #start {
+    color: white;
+background-color: rgb(88, 65, 129);
     position: absolute;
     top: calc(50% + 40px);
     left: 30%;
