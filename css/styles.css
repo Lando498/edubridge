@@ -2,6 +2,7 @@
     position: fixed;
     width: 100%;
     right: 0%;
+    top: 0%;
     height: 5%;
     background-color: rgb(49, 36, 73);
     display: flex;
@@ -22,4 +23,14 @@ align-items: center;
 justify-content: center;
 text-decoration: none;
 font-family: Arial, Helvetica, sans-serif;
+}
+#logo {
+    height: 4vh;
+    width: 4vh;
+    left: 20px;
+    position: relative;
+    border-radius: 5px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
 }
