@@ -48,7 +48,7 @@ body {
 }
 
 h1 {
-    position: relative;
+    position: block;
     top: 5%;
     z-index: 100;
 }
