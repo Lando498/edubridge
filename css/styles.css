@@ -57,5 +57,6 @@ body {
 h1 {
     position: absolute;
     top: 35%;
+    left: 10%;
     z-index: 100;
 }
