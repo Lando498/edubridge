@@ -64,6 +64,7 @@ h1 {
     z-index: 100;
 }
 #start {
+    border-radius: 10px;
     color: white;
 background-color: rgb(88, 65, 129);
     position: absolute;
