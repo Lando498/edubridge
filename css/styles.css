@@ -46,3 +46,7 @@ body {
       -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
   mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
 }
+
+h1 {
+    position: absolute;
+}
