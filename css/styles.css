@@ -55,6 +55,7 @@ body {
 }
 
 h1 {
+    font-size: large;
     position: absolute;
     top: 55%;
     left: 10%;
