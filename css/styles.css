@@ -64,6 +64,7 @@ h1 {
     z-index: 100;
 }
 #start {
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     border: 0;
     border-radius: 10px;
