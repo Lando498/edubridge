@@ -74,6 +74,7 @@ h1 {
     position: absolute;
     text-align: center;
     align-items: center;
+    justify-content: center;
     top: calc(50% + 20px);
     right: 50%;
     z-index: 100;
