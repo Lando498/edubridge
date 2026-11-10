@@ -73,6 +73,7 @@ h1 {
     background-color: rgb(88, 65, 129);
     position: absolute;
     text-align: center;
+    align-items: center;
     top: calc(50% + 20px);
     right: 50%;
     z-index: 100;
