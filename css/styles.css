@@ -82,6 +82,7 @@ h1 {
     height: 50px;
     width: 150px;
     cursor: pointer;
+    display: flex;
 }
 
 footer {
